@@ -30,6 +30,7 @@ module.exports = {
       filename: 'index.html',
       inject: 'head',
       template: './src/template.html',
+      favicon: 'src/resources/svg/coffee-pot-svgrepo-com.svg',
     }),
   ],
 };
